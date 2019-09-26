@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forloob", "Exercise03\Forlo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfThenElse", "IfThenElse\IfThenElse.csproj", "{D438D908-36F3-40EC-8703-1C2DE1AD7A80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{DF826217-7939-4288-952A-9EBA9E16DADD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D438D908-36F3-40EC-8703-1C2DE1AD7A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D438D908-36F3-40EC-8703-1C2DE1AD7A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D438D908-36F3-40EC-8703-1C2DE1AD7A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF826217-7939-4288-952A-9EBA9E16DADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF826217-7939-4288-952A-9EBA9E16DADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF826217-7939-4288-952A-9EBA9E16DADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF826217-7939-4288-952A-9EBA9E16DADD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
